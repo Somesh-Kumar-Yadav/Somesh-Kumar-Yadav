@@ -21,7 +21,7 @@ and DS & Algo.</h3>
 
 🥅 *2021 Goals :* Learning new things and contribute more  
 
- 📫 You can reach me at [chat](mailto:ramlalayadav1997@gmail.com) 
+ 📫 You can reach me at [chat](mailto:someshkumar71524@gmail.com) 
 
 
 ## 🚀 Languages and Tools:
@@ -31,19 +31,14 @@ and DS & Algo.</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>    
-    <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
      <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-      <a href="https://nextjs.org/" target="_blank"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--8sx8IYNE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i2.wp.com/blogreact.com/wp-content/uploads/2020/10/1_htbUdWgFQ3a94PMEvBr_hQ.png%3Fresize%3D750%252C428%26ssl%3D1" alt="next.js" width="40" height="40"/> </a>  
+      <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next.svg" alt="next.js" width="40" height="40"/> </a>  
 </p>
 <br/>
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/RamlalaYadav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
  
   <p align="center">
     <a href="https://github.com/Somesh-Kumar-Yadav/github-readme-stats"><img alt="Somesh Kumar Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -59,7 +54,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 <br/>
 
-<a href="https://github.com/Ramlala-Yadav-Git/github-readme-activity-graph"><img alt="Somesh's Graph" src="https://activity-graph.herokuapp.com/graph?username=Somesh-Kumar-Yadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Somesh-Kumar-Yadav/github-readme-activity-graph"><img alt="Somesh's Graph" src="https://activity-graph.herokuapp.com/graph?username=Somesh-Kumar-Yadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
