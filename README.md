@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Somesh Kumar Yadav</h1>
-<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant and efficient code. Highly skilled in collabration, decision-making,
-and DS & Algo.</h3>
+<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
 
 <p align= "center">
 
@@ -63,7 +62,7 @@ and DS & Algo.</h3>
  <a href = "https://somesh-yadav-portfolio.herokuapp.com/" target="blank"><img width="44px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1603075-1359338.png"> </a>
 <a href = "https://www.linkedin.com/in/somesh-kumar-yadav-3a2141157/"><img width="55px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="blank"></a>
  <a href = "https://twitter.com/SomeshKumarYa12"><img width="50px" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/t-logo-png-twitter-logo-18.png" target="blank"></a>
-<p>Call Me: 6354136407</p>
+<p>Call Me: +91-6354136407</p>
  <p>Email: someshkumar71524@gmail.com</p>
 
 </div>
