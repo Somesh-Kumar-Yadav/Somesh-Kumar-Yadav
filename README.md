@@ -19,7 +19,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Somesh-Kumar-Yadav/github-readme-activity-graph"><img alt="Somesh's Graph" src="https://activity-graph.herokuapp.com/graph?username=Somesh-Kumar-Yadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Somesh's github stats](https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav)](https://github.com/Somesh-Kumar-Yadav/github-readme-stats)
+
 
 <br/>
 
