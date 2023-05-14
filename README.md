@@ -35,17 +35,19 @@
 
 <br/>
 
-## Connect with me:
+<h2 align="center">Connect with me</h2>
+   <br/> 
 <div display="flex" justify-content="center" align-items="center">
- <a href = "https://somesh-yadav-portfolio.herokuapp.com/" target="blank"><img width="44px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1603075-1359338.png"> </a>
 <a href = "https://www.linkedin.com/in/somesh-kumar-yadav-3a2141157/"><img width="55px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="blank"></a>
- <a href = "https://twitter.com/SomeshKumarYa12"><img width="50px" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/t-logo-png-twitter-logo-18.png" target="blank"></a>
 <p>Call Me: +91-6354136407</p>
  <p>Email: someshkumar71524@gmail.com</p>
 
 </div>
 
-## ❤ Views and Followers
+<br/>
+
+<h2 align="center">❤ Views and Followers</h2>
+   <br/> 
 <a href="https://github.com/Somesh-Kumar-Yadav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Somesh-Kumar-Yadav">
 </a>
