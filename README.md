@@ -10,7 +10,7 @@
 
 # Hi there, I'm Somesh Kumar Yadav 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;DSA+Enthusiast;Clean+Code+Advocate;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer;Auth+%26+Security+Specialist;Distributed+Systems+Engineer;Payment+Systems+Architect;SSO+%26+Identity+Integration+Expert;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,13 +25,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full Stack Web Developer** with hands-on experience designing, developing, and maintaining production-grade applications end-to-end. I write clean, elegant, and efficient code — and I genuinely enjoy it.
+I'm a **Full Stack Web Developer** with deep expertise in security architecture, distributed systems, and payment engineering. I design and build production-grade systems end-to-end — from identity protocols to high-throughput data pipelines.
 
-- 🔭 Currently building scalable full-stack applications
-- 🌱 Always learning — adept at **learning, unlearning, and relearning**
-- 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🤝 Thrive in collaborative, fast-paced environments
-- ⚡ Highly skilled in **decision-making** and writing maintainable code
+- 🔐 Auth specialist — **OAuth 2.0, OpenID Connect, SAML, Passkeys, Spring Security**
+- 🏗️ Distributed systems — **PXC MySQL Cluster, MongoDB Cluster, Redis**
+- 💳 Payment integrations — **Razorpay, Stripe, CCAvenue, EBS**
+- 🚀 Optimised API performance by **90%** through profiling and architectural redesign
+- 🧠 Designed **Payment, Credit, User & Abuse Management** systems using advanced data structures
+- 🔗 Enterprise **SSO integrations** — Okta, Ping Federate, PingOne, Google, Microsoft Entra ID
+- 🤖 Built and integrated **remote MCP server** workflows
+- ⚡ DSA practitioner — Bloom Filters, Aho-Corasick, Interval Trees & more
 
 ---
 
@@ -52,15 +55,33 @@ I'm a **Full Stack Web Developer** with hands-on experience designing, developin
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### Databases
+### Auth & Identity
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OpenID_Connect-F78C40?style=flat-square&logo=openid&logoColor=white)
+![SAML](https://img.shields.io/badge/SAML_2.0-FF6B35?style=flat-square&logo=xml&logoColor=white)
+![Passkeys](https://img.shields.io/badge/Passkeys-000000?style=flat-square&logo=webauthn&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
+![Ping Identity](https://img.shields.io/badge/Ping_Identity-007BC4?style=flat-square&logo=pingidentity&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google SSO](https://img.shields.io/badge/Google_SSO-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### Payments
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![CCAvenue](https://img.shields.io/badge/CCAvenue-FF6600?style=flat-square&logo=cashapp&logoColor=white)
+![EBS](https://img.shields.io/badge/EBS-1E3A5F?style=flat-square&logo=visa&logoColor=white)
+
+### Distributed Systems & Databases
+![PXC MySQL Cluster](https://img.shields.io/badge/PXC_MySQL_Cluster-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB Cluster](https://img.shields.io/badge/MongoDB_Cluster-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_Cluster-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
 ### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -71,10 +92,54 @@ I'm a **Full Stack Web Developer** with hands-on experience designing, developin
 
 ### Tooling
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🔐 Auth & Identity Expertise
+
+| Protocol / Standard | Details |
+|---|---|
+| **OAuth 2.0** | Authorization Code, Client Credentials, PKCE flows |
+| **OpenID Connect** | ID tokens, userinfo endpoint, discovery |
+| **SAML 2.0** | SP-initiated & IdP-initiated SSO, metadata exchange |
+| **Passkeys / WebAuthn** | FIDO2 passkey registration & authentication |
+| **Spring Security** | JWT filters, method security, custom auth providers |
+
+### Enterprise SSO Providers Integrated
+
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
+![Ping Federate](https://img.shields.io/badge/Ping_Federate-007BC4?style=flat-square&logo=pingidentity&logoColor=white)
+![PingOne](https://img.shields.io/badge/PingOne-007BC4?style=flat-square&logo=pingidentity&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🏗️ System Design Highlights
+
+### 💳 Payment & Credit System
+- Designed end-to-end payment flows with **Razorpay, Stripe, CCAvenue & EBS**
+- Built a **credit management engine** with ledger-based accounting
+- Integrated **webhook handling**, idempotency keys, and retry mechanisms
+
+### 👤 User Management & Abuse Prevention
+- Designed scalable **User Management System** with RBAC
+- Built **Abuse Management** layer using advanced data structures:
+  - 🌸 **Bloom Filter** — probabilistic duplicate & abuse signal detection
+  - 🔍 **Aho-Corasick** — multi-pattern string matching for content moderation
+  - 🌳 **Interval Tree** — range-based rule evaluation and rate-limit windows
+
+### ⚡ Performance Engineering
+- Achieved **90% API performance improvement** via query optimisation, caching strategies, and connection pooling
+- Profiled and eliminated N+1 queries, reduced payload sizes, and implemented response compression
+
+### 🗄️ Distributed Systems
+- **PXC MySQL Cluster** — synchronous multi-master replication for zero data loss
+- **MongoDB Cluster** — sharded cluster for horizontal scalability
+- **Redis** — distributed caching, session management, pub/sub messaging
 
 ---
 
@@ -82,12 +147,14 @@ I'm a **Full Stack Web Developer** with hands-on experience designing, developin
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=58a6ff&text_color=adbac7" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Somesh-Kumar-Yadav&hide_border=true&background=0D1117&ring=39d353&fire=f78166&currStreakLabel=39d353&sideLabels=adbac7&dates=7d8590" alt="Streak Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=21600" alt="GitHub Stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=Somesh-Kumar-Yadav&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 
-<br/>
+</div>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Kumar-Yadav&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=39d353&text_color=adbac7" alt="Top Languages" />
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Kumar-Yadav&langs_count=8&layout=compact&theme=github_dark&hide_border=true&cache_seconds=21600" alt="Top Languages" />
 
 </div>
 
