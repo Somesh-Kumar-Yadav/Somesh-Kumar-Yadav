@@ -1,10 +1,11 @@
 <div align="center">
 
 ```
- ___  ___  ___  ___  ___ _____ _   _
-/ __|/ _ \|  \/  | |/ __| ____| | | |
-\__ \ (_) | |\/| | |  \__ \  _| | |_| |
-|___/\___/|_|  |_|_|__|___/_____|\___/
+   _____ ____  __  ______________ __  __
+  / ___// __ \/  |/  / ____/ ___// / / /
+  \__ \/ / / / /|_/ / __/  \__ \/ /_/ /
+ ___/ / /_/ / /  / / /___ ___/ / __  /
+/____/\____/_/  /_/_____//____/_/ /_/
 ```
 
 # Hi there, I'm Somesh Kumar Yadav 👋
@@ -81,12 +82,12 @@ I'm a **Full Stack Web Developer** with hands-on experience designing, developin
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=58a6ff&text_color=adbac7" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Somesh-Kumar-Yadav&theme=react&hide_border=true&background=0D1117&ring=39d353&fire=f78166&currStreakLabel=39d353&sideLabels=adbac7&dates=7d8590" alt="Streak Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39d353&icon_color=58a6ff&text_color=adbac7" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Somesh-Kumar-Yadav&hide_border=true&background=0D1117&ring=39d353&fire=f78166&currStreakLabel=39d353&sideLabels=adbac7&dates=7d8590" alt="Streak Stats" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Kumar-Yadav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=39d353&text_color=adbac7" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Kumar-Yadav&langs_count=8&layout=compact&hide_border=true&bg_color=0D1117&title_color=39d353&text_color=adbac7" alt="Top Languages" />
 
 </div>
 
