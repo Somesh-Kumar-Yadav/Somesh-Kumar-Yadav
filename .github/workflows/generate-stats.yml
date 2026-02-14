@@ -2,8 +2,8 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:        # allows manual trigger from Actions tab
+    - cron: "0 0 * * *"   # daily at midnight
+  workflow_dispatch:        # manual trigger from Actions tab
   push:
     branches: [main]
 
@@ -16,18 +16,26 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate GitHub Stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: stats
-          options: username=Somesh-Kumar-Yadav&show_icons=true&theme=github_dark&hide_border=true
+          options: 'username=Somesh-Kumar-Yadav&show_icons=true&theme=github_dark&hide_border=true'
           path: assets/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+      - name: Generate Top Languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: username=Somesh-Kumar-Yadav&layout=compact&langs_count=8&theme=github_dark&hide_border=true
+          options: 'username=Somesh-Kumar-Yadav&layout=compact&langs_count=8&theme=github_dark&hide_border=true'
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-langs.svg
+          git diff --cached --quiet || git commit -m "chore: update stats cards [skip ci]"
+          git push
