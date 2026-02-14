@@ -149,14 +149,14 @@ I'm a **Full Stack Web Developer** with deep expertise in security architecture,
 
 <div align="center">
 
-<img height="180em" src="./assets/github-stats.svg" alt="GitHub Stats" />
+<img height="180em" src="https://raw.githubusercontent.com/Somesh-Kumar-Yadav/Somesh-Kumar-Yadav/main/assets/github-stats.svg" alt="GitHub Stats" />
 <img height="180em" src="https://streak-stats.demolab.com?user=Somesh-Kumar-Yadav&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img height="160em" src="./assets/top-langs.svg" alt="Top Languages" />
+<img height="160em" src="https://raw.githubusercontent.com/Somesh-Kumar-Yadav/Somesh-Kumar-Yadav/main/assets/top-langs.svg" alt="Top Languages" />
 
 </div>
 
