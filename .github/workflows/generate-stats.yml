@@ -3,7 +3,7 @@ name: Generate GitHub Stats
 on:
   schedule:
     - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch:          # allows manual trigger
+  workflow_dispatch:          # allows manual trigger from Actions tab
   push:
     branches: [main]
 
@@ -16,21 +16,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats Card
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate Stats SVG
+      - name: Fetch Stats SVGs
         run: |
           mkdir -p assets
 
-          # GitHub Stats
-          curl -s "https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&theme=github_dark&hide_border=true" \
+          curl -s --retry 3 --retry-delay 2 \
+            "https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&theme=github_dark&hide_border=true" \
             -o assets/github-stats.svg
 
-          # Top Languages
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Kumar-Yadav&langs_count=8&layout=compact&theme=github_dark&hide_border=true" \
+          curl -s --retry 3 --retry-delay 2 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Kumar-Yadav&langs_count=8&layout=compact&theme=github_dark&hide_border=true" \
             -o assets/top-langs.svg
 
       - name: Commit SVGs
