@@ -145,16 +145,18 @@ I'm a **Full Stack Web Developer** with deep expertise in security architecture,
 
 ## 📊 GitHub Stats
 
+> Stats are auto-generated every 6 hours via GitHub Actions — always up to date, never rate-limited.
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=21600" alt="GitHub Stats" />
+<img height="180em" src="./assets/github-stats.svg" alt="GitHub Stats" />
 <img height="180em" src="https://streak-stats.demolab.com?user=Somesh-Kumar-Yadav&theme=github-dark-blue&hide_border=true" alt="Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Kumar-Yadav&langs_count=8&layout=compact&theme=github_dark&hide_border=true&cache_seconds=21600" alt="Top Languages" />
+<img height="160em" src="./assets/top-langs.svg" alt="Top Languages" />
 
 </div>
 
