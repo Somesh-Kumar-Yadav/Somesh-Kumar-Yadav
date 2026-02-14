@@ -2,13 +2,13 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
-  workflow_dispatch:          # allows manual trigger from Actions tab
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:        # allows manual trigger from Actions tab
   push:
     branches: [main]
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -16,22 +16,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Stats SVGs
-        run: |
-          mkdir -p assets
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=Somesh-Kumar-Yadav&show_icons=true&theme=github_dark&hide_border=true
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-          curl -s --retry 3 --retry-delay 2 \
-            "https://github-readme-stats.vercel.app/api?username=Somesh-Kumar-Yadav&show_icons=true&theme=github_dark&hide_border=true" \
-            -o assets/github-stats.svg
-
-          curl -s --retry 3 --retry-delay 2 \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=Somesh-Kumar-Yadav&langs_count=8&layout=compact&theme=github_dark&hide_border=true" \
-            -o assets/top-langs.svg
-
-      - name: Commit SVGs
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add assets/
-          git diff --cached --quiet || git commit -m "chore: update stats SVGs [skip ci]"
-          git push
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=Somesh-Kumar-Yadav&layout=compact&langs_count=8&theme=github_dark&hide_border=true
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
